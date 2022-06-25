@@ -39,7 +39,7 @@ Dependências:
 
 ### Imagem do site de referência para as fonts usadas no exercício:
 
-![Imagem do site de referência para as fonts usadas no exercício](/public/images/Font-Squirrel-Create-Your-Own-@font-face Kits.png)
+![Imagem do site de referência para as fonts usadas no exercício](/public/images/Font-Squirrel-Create-Your-Own-@font-face-Kits.png)
 
 
 <br />
